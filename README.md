@@ -88,7 +88,8 @@ docker-compose ps
 
 ```
 rm -rf ./master/data/*
-rm -rf ./slave/data/*
+rm -rf ./slave1/data/*
+rm -rf ./slave2/data/*
 ```
 
 #### Run command inside "mysql_master"
