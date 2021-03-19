@@ -1,5 +1,4 @@
 ## Docker MySQL master-slave replication 
-========================
 
 MySQL master-slave replication with using Docker. 
 
